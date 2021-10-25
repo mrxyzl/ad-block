@@ -4,5 +4,8 @@ fandom.com##.article-featured-video__player
 fandom.com##.ad-slot-wrapper.incontent-boxad.ic-ad-slot-placeholder
 fandom.com##.sitenotice--visible.sitenotice
 genk.vn###adm-slot-7269
+fandom.com##.notifications-box
 vnexpress.net###banner_top
 vnexpress.net##.banner_mobile
+https://static.mediacdn.vn/common/images/loading-ads-adm.gif
+ndom.com##.notifications-box
