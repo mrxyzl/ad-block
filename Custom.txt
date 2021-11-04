@@ -9,8 +9,6 @@ vnexpress.net###banner_top
 vnexpress.net##.banner_mobile
 https://static.mediacdn.vn/common/images/loading-ads-adm.gif
 fandom.com##.article-featured-video
-! 2021-10-24 https://www.ign.com
-www.ign.com##section.wiki-bobble
 ! 2021-10-24 https://m.genk.vn
 m.genk.vn##.adv-box.clearfix
 ! 2021-10-24 https://hollowknight.fandom.com
