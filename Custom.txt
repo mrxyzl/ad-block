@@ -1,189 +1,72 @@
 fandom.com##.article-featured-video__player
-
 fandom.com##.ad-slot-wrapper.incontent-boxad.ic-ad-slot-placeholder
-
 fandom.com###localNotice
-
 fandom.com##.ic-ad-slot-placeholder
-
 m.economictimes.com###atf_87063007
-
 fandom.com##.sitenotice.sitenotice--visible:first-child
-
 m.genk.vn###adm-slot-7269
-
 tuoitre.vn###homeajax > section.magazine-home.\31 111:first-child > div.top-news
-
-! 2021-11-12 https://www.ign.com
 www.ign.com##div.adunit-wrapper.jsx-2483022842:nth-of-type(5)
-
-! 2021-11-12 https://www.rockmods.net
 www.rockmods.net###ignielAdBlock
 www.rockmods.net##.entry-content.post-body > div > div
 www.rockmods.net##.post-section
 www.rockmods.net##div:nth-of-type(5)
 www.rockmods.net##.entry-content.post-body > div > span
-
-! 2021-11-13 https://www.gosunoob.com
 www.gosunoob.com##div.ad-holder-mob-300:nth-of-type(1)
 www.gosunoob.com##.clearfix.entry-content > div.ad-holder-mob-300 > div
-
-! 2021-11-15 https://m.kenh14.vn
 m.kenh14.vn###adm-slot-7279
-
-! 2021-11-15 https://www.ign.com
 www.ign.com##.bobble-0.bobble.jsx-2483022842
 www.ign.com##.bobble-Medrec_article_q4.bobble.jsx-2483022842
 www.ign.com##aside > .article-leaderboard-adunit
 www.ign.com##div.article-leaderboard-adunit
 www.ign.com##.bobble-1.bobble.jsx-2483022842
-! 2023-10-12 https://m.genk.vn
-
-
 m.genk.vn###adm-slot-7269
-
-
-! 2023-10-12 https://readlightnovel.app
-
-
 readlightnovel.app###chapter_read_top
-
-
 readlightnovel.app###chapterText > center
-
-
 readlightnovel.app##.cm-rk-320x50
-
-
-
-! 2023-10-12 https://nhentai.net
-
-
 nhentai.net##section.advt.advertisement.container
-
-
-
-
-
-
-! 2023-10-13 https://jnovels.com
-
-
 ||jnovels.com/wp-content/uploads/2021/10/support-us-1.gif$image
-
-
-
-jnovels.com###block-8 > .clear.widget-content > p
-
-
-
-! 2023-10-13 https://foodtechnos.in
-
-
+jnovels.com###block-8 >.clear.widget-content > p
 foodtechnos.in###HTML200 > .widget-title > .title
-
-
-
 foodtechnos.in##.owl-stage
-
-
-! 2023-10-15 https://xdaforums.com
-
-
-
 xdaforums.com###xdadevelopers_leaderboard_atf
-
-
-! 2023-10-18 https://www.lightnovelpub.com
 www.lightnovelpub.com##.container
-
-! 2023-10-18 https://m.kenh14.vn
 m.kenh14.vn##.adv-box.clearfix
-
-! 2023-11-14 https://www.dienmayxanh.com
 www.dienmayxanh.com##.zalo-chat-widget
-
 ||devfiles.pages.dev/js/jquery.cookie.js
-
 ! 2023-11-24 https://dienmaycholon.vn
 ||page.widget.zalo.me/$subdocument
-
-! 2023-11-30 https://www.novelupdates.com
 www.novelupdates.com##.ad_336
-
-! 2023-12-06 https://jnovels.com
 jnovels.com##.featured-media > [href="https://jnovels.com/urgent-support-needed/"]
 jnovels.com##.featured-media > [href="https://jnovels.com/zerobooks-ios-available/"]
 jnovels.com##.featured-media > [href="https://jnovels.com/zero-books-android-app/"]
 jnovels.com##.featured-media > [href="https://jnovels.com/top-light-novels-to-read/"]
-
-! 2023-12-06 https://thanhnien.vn
 thanhnien.vn##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
 thanhnien.vn##.detail__cmain.container > .i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > .amp-active
 thanhnien.vn##i-amphtml-sizer
 thanhnien.vn##.notify-flyicon-content
-
-! 2023-12-06 https://www.24h.com.vn
 www.24h.com.vn##.contnrTopfixBg
-
-! 2023-12-06 https://xdaforums.com
 xdaforums.com###xdaforums_leaderboard_atf
-
-! 2023-12-06 https://www.24h.com.vn
 www.24h.com.vn###div_inpage_banner
 www.24h.com.vn##.div_inpage_banner_open.banner
-
-! 2023-12-06 https://www.reddit.com
 www.reddit.com###t3_17gsf1l
-
-! 2023-12-22 https://indianshortner.com
 indianshortner.com##[src="https://indianshortner.com/assets/methods/pkd.jpg"]
-
-! 2024-01-06 https://meowdb.com
 meowdb.com##div:nth-of-type(9) > div > div:nth-of-type(1)
 meowdb.com##div:nth-of-type(9)
-
-! 2024-03-16 https://m.facebook.com
 m.facebook.com##.bottom.fixed-container.m
-
-! 2024-03-17 https://m.facebook.com
 m.facebook.com##div.m:nth-of-type(14)
-
-! 2024-04-03 https://vnexpress.net
 vnexpress.net##.js_installvneapp.installvneapp--small.installvneapp
-
-! 2024-04-07 https://www.lightnovelworld.co
 www.lightnovelworld.co##.yXnPAfBh
-
-! 2024-04-22 https://dlamd.tgamer.vn
 dlamd.tgamer.vn##div > div
 dlamd.tgamer.vn##body > div
-
-! Jun 5, 2024 https://dl.apkmoddone.com
 dl.apkmoddone.com##div > div
 dl.apkmoddone.com##body > div
-
-! Jul 27, 2024 https://vnexpress.net
 vnexpress.net###podcastIcon > .lazyLoaded
-
-! Jul 30, 2024 https://jnovels.com
 jnovels.com##.ai-track.code-block-1.code-block
 jnovels.com##.custom-html-widget.textwidget
-
-! Jul 31, 2024 https://galaxytranslations10.com
-galaxytranslations10.com##.floatingchat-container-wrap-mobi
-galaxytranslations10.com##.alert-warning.alert.chapter-warning
-
-! Aug 2, 2024 https://www.facebook.com
 www.facebook.com##.bottom.fixed-container.m
-
-! Aug 29, 2024 https://galaxytranslations11.com
 galaxytranslations11.com##.floatingchat-container-wrap-mobi
-
-! Aug 31, 2024 https://www.toasteful.com
 www.toasteful.com##.floatingchat-container-wrap-mobi
-
-! Aug 31, 2024 https://www.google.com
 www.google.com##.dwPxhc
 
 
