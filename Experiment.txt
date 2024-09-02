@@ -1,6 +1,0 @@
-tuoitre.vn###homeajax > section.magazine-home.\31 111:first-child > div.top-news
-m.kenh14.vn###adm-slot-7279
-fandom.com###localNotice
-fandom.com##.ic-ad-slot-placeholder
-fandom.com##.article-featured-video__player
-fandom.com##.ad-slot-wrapper.incontent-boxad.ic-ad-slot-placeholder
