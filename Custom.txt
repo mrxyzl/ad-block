@@ -68,5 +68,7 @@ www.facebook.com##.bottom.fixed-container.m
 galaxytranslations11.com##.floatingchat-container-wrap-mobi
 www.toasteful.com##.floatingchat-container-wrap-mobi
 www.google.com##.dwPxhc
+yeutre.vn##.yt-ads
+yeutre.vn##.ads
 
 
