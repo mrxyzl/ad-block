@@ -70,6 +70,4 @@ www.toasteful.com##.floatingchat-container-wrap-mobi
 www.google.com##.dwPxhc
 yeutre.vn##.yt-ads
 yeutre.vn##.ads
-www.lightnovelworld.com##.container
-##div.FW-KsiRB.pOSDZBzi:nth-of-type(1)
-##div.FW-KsiRB.pOSDZBzi
+www.lightnovelworld.com##div.FW-KsiRB.pOSDZBzi
