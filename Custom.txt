@@ -70,4 +70,5 @@ www.toasteful.com##.floatingchat-container-wrap-mobi
 www.google.com##.dwPxhc
 yeutre.vn##.yt-ads
 yeutre.vn##.ads
-
+www.lightnovelworld.com##div.FW-KsiRB.pOSDZBzi
+www.lightnovelworld.com##.container
