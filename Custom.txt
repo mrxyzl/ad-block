@@ -71,4 +71,4 @@ www.google.com##.dwPxhc
 yeutre.vn##.yt-ads
 yeutre.vn##.ads
 www.lightnovelworld.com##.container
-
+##div.FW-KsiRB.pOSDZBzi:nth-of-type(1)
