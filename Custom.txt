@@ -97,3 +97,55 @@ cegen.org##.btqzbnhpkzvlrkulobvjmdprsxdqzuurylramndqykhqodfnnlmtticuqm.vgqzaxuwg
 ! Jan 22, 2025 https://healthcare--in--europe-com.translate.goog
 healthcare--in--europe-com.translate.goog##.open.newsletter-subscribe-box
 ||static1.cafeland.vn/cafelandnew/hinh-anh/2024/12/26/211/inpage-mobile.png$image
+vnexpress.net###newsletters-mb-footer > .wrap
+vnexpress.net##div.coppy_right_info.width_common:nth-of-type(3) > .width_common.app_info.vne_app
+vnexpress.net##.newsletters_footer_mb.coppy_right_info.width_common
+vnexpress.net###newsletters-top > .wrap
+vnexpress.net###newsletters
+vnexpress.net###newsletters-details > .wrap
+cloutgist.com###s65c
+cloutgist.com###content > h2:nth-of-type(1)
+go.cloutgist.com##div:nth-of-type(6)
+go.cloutgist.com###google_ads_iframe_\/21722443013\/MOBILE_AD_0
+go.cloutgist.com###google_ads_iframe_\/21722443013\/MOBILE_AD_0__container__
+cloutgist.com##h3
+
+go.cloutgist.com###google_ads_iframe_\/21722443013\/MOBILE_AD_0
+go.cloutgist.com###div-gpt-ad-1692186338158-0
+vietlott-sms.vn###mat-dialog-7 > .ng-star-inserted > div:nth-of-type(1) > div:nth-of-type(2) > .mx-auto
+vietlott-sms.vn##.cdk-overlay-backdrop.cdk-overlay-dark-backdrop.cdk-overlay-backdrop-showing
+vietlott-sms.vn###mat-dialog-3 > .ng-star-inserted > div:nth-of-type(1) > div:nth-of-type(2) > .mx-auto
+vietlott-sms.vn###mat-dialog-9 > .ng-star-inserted > div:nth-of-type(1) > div:nth-of-type(2) > .mx-auto
+9gag.com###stream-3 > section.salt-section:nth-of-type(1)
+tuoitre.vn##.detail__newslette
+tuoitre.vn###iframe-jmpngpa4-lmq4gda3
+novelbin.com##.btn.btn-unlock.btn-block
+vnexpress.net###banner_top
+vnexpress.net##section.section.box_category_v2.section_ads_300x250:nth-of-type(5) > .banner_mobile_300x250
+vnexpress.net##section.section.box_category_v2.section_ads_300x250:nth-of-type(6) > .banner_mobile_300x250
+vnexpress.net##section.section.box_category_v2.section_ads_300x250:nth-of-type(1)
+vnexpress.net###ads_large_detail
+vnexpress.net##.section.box_category.box_category_v2.section_ads_300x250.vne_footer_ads
+tuoitre.vn###LeaderBoardTop
+m.soha.vn##[href*="https://distinctrobin.com/admt"]
+m.soha.vn###ultra-top-iframe530816
+m.soha.vn###adm_zone530816
+m.soha.vn###ban-top-site-bb
+m.soha.vn###sponsor_laodong_521178-64s8qb
+dantri.com.vn###mobile-top-page
+laodong.vn###sp-wrapper-hovering-img > [href*="https://s.shopee.vn/2qDJz7Ayge"] > div
+laodong.vn###sp-wrapper-hovering > span
+tuoitre.vn##.box_tto_star_register-left
+www.ndtv.com##div.ad-art_full2.ad-art_wap.nonKeyEvent:nth-of-type(2)
+www.ndtv.com##div.ad-art_full2.ad-art_wap.nonKeyEvent:nth-of-type(5) > .ad-art_rw > .ad-art_wr > .ad-art_img-wr
+thuvienphapluat.vn##[src*="/chinh-sach-phap-luat-moi/Content/Images/noimage.png"]
+vnexpress.net##section.section.box_category_v2.section_ads_300x250:nth-of-type(4)
+hellobacsi.com##div.article-mobile-ad.mantine-1avyp1d:nth-of-type(7) > .article-mobile-ad.css-bng3h2.e1q29jt1
+dantri.com.vn###mobile-home-top-page
+vnexpress.net##section.section.box_category_v2.section_ads_300x250:nth-of-type(7)
+vietnamnet.vn###Mobile_AdsArticleBodyInArticle > div:nth-of-type(1) > div:nth-of-type(1)
+vietnamnet.vn###vmc_ad_x_frame
+vietnamnet.vn###vmcad_inview_container > div:nth-of-type(1) > div
+thanhnien.vn##.asd-headt
+vietnamnet.vn###vmcad_inview_container
+m.gsmarena.com##.d-flex.flex-column.justify-center.align-center
