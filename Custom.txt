@@ -149,3 +149,25 @@ vietnamnet.vn###vmcad_inview_container > div:nth-of-type(1) > div
 thanhnien.vn##.asd-headt
 vietnamnet.vn###vmcad_inview_container
 m.gsmarena.com##.d-flex.flex-column.justify-center.align-center
+mbjremix.com###gads
+tuoitre.vn###iframe-jmpnhdhr-k7rkduoa
+vietlott-sms.vn###mat-dialog-10 > .ng-star-inserted > div:nth-of-type(1) > div:nth-of-type(2) > .mx-auto
+cuoi.tuoitre.vn###slot-1-k8im1zee-llg50al1 > div
+loan.mbjremix.com##.floating-ads-container
+vnexpress.net##section.section.box_category_v2.section_ads_300x250:nth-of-type(18)
+mangapark.net##.flex.flex-col.w-full.py-8.space-y-8 > div:nth-of-type(1) > .px-3.max-w-screen-2xl.mx-auto.space-y-5 > .block.py-1.text-center.border-2.border-dashed.border-success\/30.rounded-box.cursor-pointer.hover\:bg-success\/15 > .opacity-80
+m.thethao247.vn###content_detail > div:nth-of-type(1)
+m.thethao247.vn##.main-content > section:nth-of-type(1) > .container
+mangapark.net##a.block.py-1.text-center.border-2.border-dashed.border-success\/30.rounded-box.cursor-pointer.hover\:bg-success\/15:nth-of-type(1)
+vietlott-sms.vn##.cdk-drag.absolute.z-50.w-18.md\:w-24 > div.mb-2.ng-star-inserted:nth-of-type(2) > div:nth-of-type(2) > .w-18.md\:w-24
+vietlott-sms.vn##.mb-2.ng-star-inserted.animated_tada > div > .w-18.md\:w-24
+vietlott-sms.vn##div.mb-2.ng-star-inserted:nth-of-type(1) > div > .w-18.md\:w-24
+vietlott-sms.vn##.flex.justify-end
+comics.vn##[src*="/images/shopee1.webp?v=3.47"]
+comics.vn###floatcenter
+navnn.com###hustle-popup-id-1
+navnn.com###hustle-popup-id-2 > .hustle-popup-content.hustle-animate.hustle-animate-in--no_animation > .hustle-info.hustle-info--default > .hustle-main-wrapper > .hustle-layout.hustle-whole-module-cta > .hustle-layout-content > .hustle-image.hustle-image-fit--fill > .hustle-image-position--centercenter.entered.litespeed-loaded
+navnn.com###hustle-popup-id-2
+vnexpress.net##section.section.box_category_v2.section_ads_300x250:nth-of-type(19)
+langchai.com.vn##.cmi-box-style-4.phone-right > ul
+luatvietnam.vn###bs__f89a0e86ca9aca05655b88b2264fb54e
