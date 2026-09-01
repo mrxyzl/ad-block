@@ -53,8 +53,6 @@ www.reddit.com###t3_17gsf1l
 indianshortner.com##[src="https://indianshortner.com/assets/methods/pkd.jpg"]
 meowdb.com##div:nth-of-type(9) > div > div:nth-of-type(1)
 meowdb.com##div:nth-of-type(9)
-m.facebook.com##.bottom.fixed-container.m
-m.facebook.com##div.m:nth-of-type(14)
 vnexpress.net##.js_installvneapp.installvneapp--small.installvneapp
 www.lightnovelworld.co##.yXnPAfBh
 dlamd.tgamer.vn##div > div
