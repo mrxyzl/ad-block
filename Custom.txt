@@ -62,7 +62,6 @@ dl.apkmoddone.com##body > div
 vnexpress.net###podcastIcon > .lazyLoaded
 jnovels.com##.ai-track.code-block-1.code-block
 jnovels.com##.custom-html-widget.textwidget
-www.facebook.com##.bottom.fixed-container.m
 galaxytranslations11.com##.floatingchat-container-wrap-mobi
 www.toasteful.com##.floatingchat-container-wrap-mobi
 www.google.com##.dwPxhc
