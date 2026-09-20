@@ -168,3 +168,4 @@ navnn.com###hustle-popup-id-2
 vnexpress.net##section.section.box_category_v2.section_ads_300x250:nth-of-type(19)
 langchai.com.vn##.cmi-box-style-4.phone-right > ul
 luatvietnam.vn###bs__f89a0e86ca9aca05655b88b2264fb54e
+voz.vn##.voz-adSlot--rectangleLarge.voz-adSlot
